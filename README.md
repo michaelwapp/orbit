@@ -2,6 +2,8 @@
 
 Orbit application for [this](https://www.udemy.com/course/2020-complete-ruby-on-rails-6-bootcamp-learn-ruby-on-rails/) Ruby on Rails 6 Udemy class.
 
+Accessible via: https://enigmatic-gorge-17087.herokuapp.com/
+
 ## A high level summary of the Orbit application
 
 1. The ability to add a new team member:
